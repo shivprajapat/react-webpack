@@ -14,6 +14,7 @@ Includes the following features...
 - Sass Loader
 - Webpack CLI
 - Webpack
+- Mini CSS Extract Plugin
 
 ## Packages Install
 
@@ -26,5 +27,5 @@ Includes the following features...
 ### DevDependencies
 
 ```
-  npm i -D @babel/core @babel/preset-env babel-loader file-loader css-loader sass sass-loader webpack-cli webpack @babel/preset-react style-loader
+  npm i -D @babel/core @babel/preset-env babel-loader file-loader css-loader sass sass-loader webpack-cli webpack @babel/preset-react style-loader mini-css-extract-plugin
 ```
